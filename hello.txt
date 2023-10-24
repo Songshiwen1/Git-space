@@ -6,4 +6,4 @@ hello at git!
 hello at git!
 hello at git!
 hello at git! master test
-hello at git!
+hello at git! hot-fix test
